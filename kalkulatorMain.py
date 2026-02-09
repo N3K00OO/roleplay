@@ -5,11 +5,11 @@ class Calculator:
     def subtract(self, a, b):
         return a - b
 
-    def multiply(self, x, y):
-        return x * y
+    def multiply(self, a, b):
+        return a * b
 
-    def divide(self, a, b):
-        return a / b
+    def divide(self, c, d):
+        return c / d
 
     def modulo(self, a, b):
         return a % b
